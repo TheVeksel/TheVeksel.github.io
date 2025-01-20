@@ -14,11 +14,12 @@ email: masxlesfrom@gmail.com
 darkmode: false
 
 # Social links
+# twitter_username: facespics
 github_username:  TheVeksel
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
-# # flickr_username: jekyll
+# flickr_username: jekyll
 # instagram_username: jameswgrant
 # linkedin_username: jameswgrant
 # xing_username: jekyll
@@ -29,9 +30,9 @@ github_username:  TheVeksel
 
 # Additional icon links
 # additional_links:
-# - title: telegram
+# - title: itsgoingto.be
 #   icon: fas fa-globe
-#   url: 
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -65,6 +66,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
         description: | # this will include new lines to allow paragraphs
           Excellent project made on <mark>React and TypeScript</mark>, displays news from a server implemented on firebase.
 
@@ -76,9 +79,10 @@ content:
         # link_text: boringcompany.com
         sub_title: Instructor
         caption: April 2023
+        quote: >
 
         description: | # this will include new lines to allow paragraphs
-           I helped refugees by translating documents and explaining where and how to get them. I also worked as a telephone operator. In this role, I learned to develop my communication skills and solve various problems more effectively.
+            I helped refugees by translating documents and explaining where and how to get them. I also worked as a telephone operator. In this role, I learned to develop my communication skills and solve various problems more effectively.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,6 +91,8 @@ content:
         title: Gradia Vocational School
         caption: 2023-present
         sub_title: Information and Communication Technology, Web Programming
+        quote: >
+          
         description: | # this will include new lines to allow paragraphs
         104/180 osp.
 
@@ -97,7 +103,6 @@ content:
       - Gaming
       - Fishing
       - Gym
-      
 
 # Footer
 footer_show_references: true
@@ -111,4 +116,5 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
+
