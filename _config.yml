@@ -15,7 +15,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  TheVeksel
+github_username: TheVeksel
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -44,61 +44,50 @@ github_username:  TheVeksel
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   Hi, I am Maksim Slesarenko, a second-year student of Information and Communication Technology (Web Programming) at Gradia University. I am looking for an opportunity to develop my skills and gain practical experience in web development.
 
   I am most skilled in: <mark>React</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Re-creation of the Yle.fi website
         link: https://github.com/TheVeksel/OmaPr
-        # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: https://github.com/TheVeksel/OmaPr
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          Excellent project made on <mark>React and TypeScript</mark>, displays news from a server implemented on firebase.
+        description: |
+          Excellent project made on <mark>React and TypeScript</mark>, displays news from a server implemented on Firebase.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Finnish Red Cross, Western Finland District
-        # link_text: boringcompany.com
         sub_title: Instructor
         caption: April 2023
-        quote: >
+        description: |
+          I helped refugees by translating documents and explaining where and how to get them. I also worked as a telephone operator. In this role, I learned to develop my communication skills and solve various problems more effectively.
 
-        description: | # this will include new lines to allow paragraphs
-            I helped refugees by translating documents and explaining where and how to get them. I also worked as a telephone operator. In this role, I learned to develop my communication skills and solve various problems more effectively.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Gradia Vocational School
         caption: 2023-present
         sub_title: Information and Communication Technology, Web Programming
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-        104/180 osp.
+        description: |
+          104/180 osp.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Along with my interests in development, I have other interests and hobbies:
       - Gaming
       - Fishing
@@ -106,7 +95,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -117,4 +106,3 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-
