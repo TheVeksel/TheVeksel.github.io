@@ -94,7 +94,7 @@ content:
       - Gym
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request
 
 # Build settings
