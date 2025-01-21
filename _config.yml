@@ -86,8 +86,8 @@ content:
         caption: Internship Project
         description: |
           Developed an educational game for children to learn about Jyväskylä. Includes multilingual support for expanding vocabulary in foreign languages.
-          [Live demo](https://jyvaskyla-game.vercel.app/)
-          Repository: [GitHub](https://github.com/TheVeksel/JyvaskylaGame)
+          <br>Live demo: [Link](https://jyvaskyla-game.vercel.app/)
+          <br>Repository: [GitHub](https://github.com/TheVeksel/JyvaskylaGame)
 
       - layout: left
         title: Sokolye Hunting Company Website
@@ -95,8 +95,8 @@ content:
         caption: Independent Work
         description: |
           Created a website for a hunting company using HTML, CSS, and JavaScript. Hosted on a free platform to meet client requirements.
-          [Live demo](https://oxota-sokolie.vercel.app/)
-          Repository: [GitHub](https://github.com/TheVeksel/Oxota.Sokolie)
+          <br>Live demo: [Link](https://oxota-sokolie.vercel.app/)
+          <br>Repository: [GitHub](https://github.com/TheVeksel/Oxota.Sokolie)
 
   - title: Education
     layout: list
