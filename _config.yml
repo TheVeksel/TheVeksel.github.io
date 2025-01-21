@@ -65,33 +65,33 @@ content:
             quote: >
               This pet project was created as a way to deepen my understanding of React and my favorite aspect of web development — the integration of frontend and backend, specifically the handling and display of server-side data.
         description: |
-          An excellent project made with <mark>React</mark> and <mark>TypeScript</mark>. It displays news fetched from a <mark>Firebase</mark> server. Live demo: <mark>https://oma-pr.vercel.app/</mark>
+          An excellent project made with React and TypeScript. It displays news fetched from a Firebase server. Live demo: https://oma-pr.vercel.app/
 
   - title: Experience
     layout: list
     content:
       - layout: left
         title: Finnish Red Cross, Western Finland District
-        sub_title: <mark>Instructor</mark>
+        sub_title: Instructor
         caption: April 2023
         description: |
-          I helped refugees by <mark>translating documents</mark> and explaining where and how to get them. I also worked as a <mark>telephone operator</mark>. In this role, I learned to improve my <mark>communication skills</mark> and solve various problems effectively.
+          I helped refugees by translating documents and explaining where and how to get them. I also worked as a telephone operator. In this role, I learned to improve my communication skills and solve various problems effectively.
 
       - layout: left
         title: Jyväskylä Game
         sub_title: Mosaiikki Oy
-        caption: <mark>Internship Project</mark>
+        caption: Internship Project
         description: |
-          Developed an educational game for children to learn about <mark>Jyväskylä</mark>. Includes <mark>multilingual support</mark> for expanding vocabulary in foreign languages. Live demo: <mark>https://jyvaskyla-game.vercel.app/</mark>  
-          Repository: [<mark>GitHub</mark>](https://github.com/TheVeksel/JyvaskylaGame)
+          Developed an educational game for children to learn about Jyväskylä. Includes multilingual support for expanding vocabulary in foreign languages. Live demo: https://jyvaskyla-game.vercel.app/  
+          Repository: [GitHub](https://github.com/TheVeksel/JyvaskylaGame)
 
       - layout: left
         title: Sokolye Hunting Company Website
-        sub_title: <mark>Freelance Project</mark>
+        sub_title: Freelance Project
         caption: Independent Work
         description: |
-          Created a website for a <mark>hunting company</mark> using <mark>HTML</mark>, <mark>CSS</mark>, and <mark>JavaScript</mark>. Hosted on a <mark>free platform</mark> to meet client requirements. Live demo: <mark>https://oxota-sokolie.vercel.app/</mark>
-          Repository: [<mark>GitHub</mark>](https://github.com/TheVeksel/SokolyeHunting)
+          Created a website for a hunting company using HTML, CSS, and JavaScript. Hosted on a free platform to meet client requirements. Live demo: https://oxota-sokolie.vercel.app/
+          Repository: [GitHub](https://github.com/TheVeksel/SokolyeHunting)
 
   - title: Education
     layout: list
@@ -99,18 +99,19 @@ content:
       - layout: left
         title: Gradia Vocational School
         caption: 2023-present
-        sub_title: Information and Communication Technology, <mark>Web Programming</mark>
+        sub_title: Information and Communication Technology, Web Programming
         description: |
           104/180 osp.
-          During my studies I bypassed the college curriculum and already acquired the following skills: <mark>HTML</mark>, <mark>CSS (SCSS)</mark>, <mark>JS</mark>, <mark>TS</mark>, <mark>React</mark>, <mark>React-router-dom</mark>, <mark>Git</mark>, <mark>Vite</mark>, <mark>Webpack</mark>, <mark>Axios</mark>, <mark>Python</mark>, <mark>WP</mark>, <mark>Firebase</mark>, <mark>Redux toolkit</mark>.
+          During my studies I bypassed the college curriculum and already acquired the following skills: HTML, CSS (SCSS), JS, TS, React, React-router-dom, Git, Vite, Webpack, Axios, Python, WP, Firebase, Redux toolkit.
 
   - title: A Little More About Me
     layout: text
     content: | 
-      Along with my interests in <mark>development</mark>, I have other interests and hobbies:
-      - <mark>Gaming</mark>
-      - <mark>Fishing</mark>
-      - <mark>Gym</mark>
+      Along with my interests in development, I have other interests and hobbies:
+      - Gaming
+      - Fishing
+      - Gym
+
 
 # Footer
 footer_show_references: false
