@@ -64,9 +64,9 @@ content:
             url: https://github.com/TheVeksel/OmaPr
             quote: >
               This pet project was created as a way to deepen my understanding of React and my favorite aspect of web development — the integration of frontend and backend, specifically the handling and display of server-side data.
-        description: | 
-        An excellent project made with React and TypeScript. It displays news fetched from a Firebase server. 
-        Live demo: <a href="https://oma-pr.vercel.app/" target="_blank">https://oma-pr.vercel.app/</a>
+            description: | 
+              An excellent project made with React and TypeScript. It displays news fetched from a Firebase server. 
+              Live demo: <a href="https://oma-pr.vercel.app/" target="_blank">https://oma-pr.vercel.app/</a>
 
 
 
