@@ -63,7 +63,7 @@ content:
             icon: fab fa-github
             url: https://github.com/TheVeksel/OmaPr
             quote: >
-          This pet project was created as a way to deepen my understanding of React and my favorite aspect of web development — the integration of frontend and backend, specifically the handling and display of server-side data.
+              This pet project was created as a way to deepen my understanding of React and my favorite aspect of web development — the integration of frontend and backend, specifically the handling and display of server-side data.
         description: |
           An excellent project made with <mark>React</mark> and <mark>TypeScript</mark>. It displays news fetched from a <mark>Firebase</mark> server. Live demo: <mark>https://oma-pr.vercel.app/</mark>
 
