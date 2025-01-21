@@ -75,6 +75,22 @@ content:
         description: |
           I helped refugees by translating documents and explaining where and how to get them. I also worked as a telephone operator. In this role, I learned to develop my communication skills and solve various problems more effectively.
 
+      - layout: left
+        title: Jyväskylä Game
+        sub_title: Mosaiikki Oy
+        caption: Internship Project
+        description: |
+          Developed an educational game for children to learn about Jyväskylä. Includes multilingual support for expanding vocabulary in foreign languages. Live demo: https://jyvaskyla-game.vercel.app/  
+          Repository: [GitHub](https://github.com/TheVeksel/JyvaskylaGame)
+
+      - layout: left
+        title: Re-creation of the Yle.fi website
+        sub_title: Personal Project
+        caption: Independent Work
+        description: |
+          A React and TypeScript project recreating the Yle.fi website. News data is fetched in real-time from Firebase. Live demo: https://oma-pr.vercel.app/  
+          Repository: [GitHub](https://github.com/TheVeksel/OmaPr)
+
   - title: Education
     layout: list
     content:
